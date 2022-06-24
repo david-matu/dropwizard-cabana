@@ -1,0 +1,9 @@
+logging:
+  level: INFO
+  loggers:
+    com.dave.apis: DEBUG
+
+server:
+  rootPath: /cabin/*
+  
+dateFormat: yyyy-MM-dd'T'HH:mmZ

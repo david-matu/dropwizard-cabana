@@ -1,0 +1,4 @@
+com\dave\apis\cabin\CabinConfiguration.class
+com\dave\apis\cabin\core\Event.class
+com\dave\apis\cabin\resources\EventResource.class
+com\dave\apis\cabin\CabinApplication.class
