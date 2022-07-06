@@ -30,7 +30,9 @@ com.dave.apis.cabin.core
 com.dave.apis.cabin.resources
 'C:/PROJECTS/DropwizardAPIs/cabin/src/main/java/com/dave/apis/cabin/CabinApplication.java'
 'C:/PROJECTS/DropwizardAPIs/cabin/src/main/java/com/dave/apis/cabin/CabinConfiguration.java'
+'C:/PROJECTS/DropwizardAPIs/cabin/src/main/java/com/dave/apis/cabin/core/DummyEventRepository.java'
 'C:/PROJECTS/DropwizardAPIs/cabin/src/main/java/com/dave/apis/cabin/core/Event.java'
+'C:/PROJECTS/DropwizardAPIs/cabin/src/main/java/com/dave/apis/cabin/core/EventRepository.java'
 'C:/PROJECTS/DropwizardAPIs/cabin/src/main/java/com/dave/apis/cabin/resources/EventResource.java'
 C:\Users\MATU\.m2\repository\io\dropwizard\dropwizard-core\2.1.0\dropwizard-core-2.1.0.jar = 1654859297137
 C:\Users\MATU\.m2\repository\io\dropwizard\dropwizard-util\2.1.0\dropwizard-util-2.1.0.jar = 1654859297971
@@ -121,17 +123,17 @@ C:\Users\MATU\.m2\repository\org\hibernate\validator\hibernate-validator\6.2.3.F
 C:\Users\MATU\.m2\repository\org\jboss\logging\jboss-logging\3.4.1.Final\jboss-logging-3.4.1.Final.jar = 1654859837210
 C:\Users\MATU\.m2\repository\com\fasterxml\classmate\1.5.1\classmate-1.5.1.jar = 1654859324259
 C:\PROJECTS\DropwizardAPIs\cabin\src\main\java = 1655995166576
-C:\PROJECTS\DropwizardAPIs\cabin\target\generated-sources\annotations = 1656051834469
-C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\allclasses-frame.html = 1656051889484
-C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\allclasses-noframe.html = 1656051889486
-C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\constant-values.html = 1656051888045
-C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\deprecated-list.html = 1656051889480
-C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\help-doc.html = 1656051889638
-C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\index-all.html = 1656051889473
-C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\index.html = 1656051889489
-C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\overview-frame.html = 1656051887848
-C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\overview-summary.html = 1656051889492
-C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\overview-tree.html = 1656051888999
-C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\package-list = 1656051887815
-C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\script.js = 1656051890834
-C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\stylesheet.css = 1656051890832
+C:\PROJECTS\DropwizardAPIs\cabin\target\generated-sources\annotations = 1656316492247
+C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\allclasses-frame.html = 1656316559676
+C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\allclasses-noframe.html = 1656316559679
+C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\constant-values.html = 1656316558972
+C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\deprecated-list.html = 1656316559671
+C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\help-doc.html = 1656316559694
+C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\index-all.html = 1656316559662
+C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\index.html = 1656316559681
+C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\overview-frame.html = 1656316558854
+C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\overview-summary.html = 1656316559687
+C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\overview-tree.html = 1656316559586
+C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\package-list = 1656316558596
+C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\script.js = 1656316559701
+C:\PROJECTS\DropwizardAPIs\cabin\target\apidocs\stylesheet.css = 1656316559698
