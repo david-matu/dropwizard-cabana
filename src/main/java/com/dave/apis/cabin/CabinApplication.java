@@ -43,7 +43,7 @@ public class CabinApplication extends Application<CabinConfiguration> {
          * Initialize the DB
          */
         final DBIFactory factory = new DBIFactory();
-        final DBI jdbc = factory.build(environment, config.get, getName())
+        //final DBI jdbc = factory.build(environment, config.getDatabase(), getName());
         
         EventResource eventResource = new EventResource(repo);
         environment.jersey().register(eventResource);
